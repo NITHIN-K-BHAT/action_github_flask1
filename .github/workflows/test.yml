@@ -30,4 +30,5 @@ jobs:
           python -m pip install flask
     
       - name: Test code 
-        run: python ./main.test.py
+        run: python ./main_test.py
+ 
